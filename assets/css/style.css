@@ -1,7 +1,18 @@
-/*comic  book pattern behind div
-comic sans text
-find bold heroic font for header
-center container*/
-#opener {
-text: red;
+body {
+    background-image: url(CBBG.jpg);
+    background-repeat: repeat;
 }
+
+#errythingElse {
+    font-family: cursive;
+    margin-left:200px;
+    margin-right: 300px;
+    margin-top: 50px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+h1 {
+font-size: 30px;
+}
+
+/*I need my javascript to work before I style much more */

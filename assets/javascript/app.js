@@ -39,39 +39,39 @@ var questions = [{
   divClass: ".ddDates"
 },
 {
-  ques: "4",
+  ques: "Which clone took over for Peter Parker in the 1990's?",
   ans: ["0", "1", "2", "3"],
-  name: "name",
-  correct: "3",
-  divClass: ".name"
+  name: "clone",
+  correct: "Ben Reilly",
+  divClass: ".clone"
 },
 {
-  ques: "5",
+  ques: "How many fingers does Nightcrawler have total?",
   ans: ["0", "1", "2", "3"],
-  name: "name",
-  correct: "1",
-  divClass: ".name"
+  name: "fist",
+  correct: "6",
+  divClass: ".fist"
 },
 {
-  ques: "6",
-  ans: ["0", "1", "2", "3"],
-  name: "name",
-  correct: "1",
-  divClass: ".name"
+  ques: "Which one of these heroes does not have a biological child?",
+  ans: ["Batman", "Green Arrow", "Moon Knight", "Aquaman"],
+  name: "child",
+  correct: "Moon Knight",
+  divClass: ".child"
 },
 {
-  ques: "7",
-  ans: ["0", "1", "2", "3"],
-  name: "name",
-  correct: "1",
-  divClass: ".name"
+  ques: "Which of these characters hasn't died in mineline continuity?",
+  ans: ["Wolverine", "Thor", "Squirrel Girl", "The Hulk"],
+  name: "death",
+  correct: "Squirrel Girl",
+  divClass: ".death"
 },
 {
-  ques: "8",
-  ans: ["0", "1", "2", "3"],
-  name: "name",
-  correct: "1",
-  divClass: ".name"
+  ques: "Who created Adamantium in Marvel's main universe (616)?",
+  ans: ["Dr. Myron MacLain", "Dr. Moira Mactaggert", "Hercules", "Dr. Abraham Cornelius"],
+  name: "adamantium",
+  correct: "Dr. Myron MacLain",
+  divClass: ".adamantium"
 },
 {
   ques: "9",
