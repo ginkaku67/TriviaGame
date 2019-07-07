@@ -1,5 +1,7 @@
 /*comic  book pattern behind div
 comic sans text
 find bold heroic font for header
-center container
-make timer look like bomb timer
+center container*/
+#opener {
+text: red;
+}
